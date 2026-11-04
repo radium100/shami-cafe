@@ -1,0 +1,6 @@
+{
+  "name": "Shami Café",
+  "description": "Modern Damascus hospitality web application featuring online ordering, courtyard table reservations, user profile authentication, and admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
